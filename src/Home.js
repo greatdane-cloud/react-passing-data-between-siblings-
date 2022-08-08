@@ -23,7 +23,7 @@ export default function Home({selectedMode}) {
             variants={variants}
             transition={{ duration: 0.5 }}
             className='shape'>
-            Programming with Masoud
+            Programming with Jeandre'
           </motion.div>
     </div>)
 }
